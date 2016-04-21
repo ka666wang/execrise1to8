@@ -24,6 +24,7 @@
 		B030421F1CC8B4DE00F32C32 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B03042221CC8B4DE00F32C32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B03042241CC8B4DE00F32C32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B030422A1CC8B53F00F32C32 /* MyPlayground1to8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground1to8.playground; path = ../MyPlayground1to8.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 				B03042161CC8B4DE00F32C32 /* AppDelegate.swift */,
 				B03042181CC8B4DE00F32C32 /* MasterViewController.swift */,
 				B030421A1CC8B4DE00F32C32 /* DetailViewController.swift */,
+				B030422A1CC8B53F00F32C32 /* MyPlayground1to8.playground */,
 				B030421C1CC8B4DE00F32C32 /* Main.storyboard */,
 				B030421F1CC8B4DE00F32C32 /* Assets.xcassets */,
 				B03042211CC8B4DE00F32C32 /* LaunchScreen.storyboard */,
